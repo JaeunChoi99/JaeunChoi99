@@ -15,5 +15,5 @@
 #### 🎨 Art  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" width="40"/> &nbsp;
-<img src="[https://your-url.com/zbrush-icon.png](https://e7.pngegg.com/pngimages/847/479/png-clipart-zbrush-digital-sculpting-computer-software-tutorial-3d-modeling-vray-icon-3d-computer-graphics-text.png)" width="40"/> &nbsp;
+<img src="https://e7.pngegg.com/pngimages/847/479/png-clipart-zbrush-digital-sculpting-computer-software-tutorial-3d-modeling-vray-icon-3d-computer-graphics-text.png" width="40"/> &nbsp;
 <img src="https://your-url.com/aseprite-icon.png" width="40"/>
