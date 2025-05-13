@@ -16,4 +16,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/> &nbsp;
 <img src="https://blog.kakaocdn.net/dn/cH60Ic/btsud13KqQK/qSSTTxejnDA84fIP5eyO8K/img.png" width="40"/> &nbsp;
 <img src="https://icons.veryicon.com/png/System/Simply%20Styled/ZBrush.png" width="40"/> &nbsp;
-<img src="https://your-url.com/aseprite-icon.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" width="40"/>
