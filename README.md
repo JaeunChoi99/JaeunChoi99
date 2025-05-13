@@ -2,7 +2,7 @@
 <h3 align="center">⚡끈질기게 배우고 끝까지 해내는 개발자!⚡</h3>
 
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ### 👨‍💻 Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" style="border: 1px solid white; border-radius: 6px;"/> &nbsp;
