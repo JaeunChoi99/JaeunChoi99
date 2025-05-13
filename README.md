@@ -1,5 +1,5 @@
-<h1 align="center"> 안녕하세요!, 최자은입니다! </h1>
-<h3 align="center">⚡끈질기게 배우고 끝까지 해내는 개발자!</h3>
+<h1 align="center"> 안녕하세요, 최자은입니다! </h1>
+<h3 align="center">⚡끈질기게 배우고 끝까지 해내는 개발자</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
