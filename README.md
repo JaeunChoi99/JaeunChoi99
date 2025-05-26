@@ -3,7 +3,8 @@
 ## ⚡모르면 배울 때까지, 알면 완성할 때까지 파고드는 개발자입니다!⚡ 
 <br/>
 
-### 👉상세 포트폴리오 : https://www.notion.so/1f2e29ae70f280a1abb0c43a6891d6e5?pvs=4 <br/>
+### 👉상세 포트폴리오 : https://www.notion.so/1f2e29ae70f280a1abb0c43a6891d6e5?pvs=4  
+### 👉블로그 : [https://velog.io/@jaeun/series](https://velog.io/@jaeun/series)  
 
 <br/>
 
